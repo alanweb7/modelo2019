@@ -1,6 +1,6 @@
 {
   "name": "modelo-text",
-  "app_id": "",
+  "app_id": "5cd9907d",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
